@@ -4,9 +4,9 @@ Here's a summary of my past and current projects!
 ---
 
 ## 📚 Table of Contents
-- [SQL](#sql)
-- [R](#r)
-- [Software Development](#software-development)
+- [SQL](#-sql)
+- [R](#-r)
+- [Software Development](#-software-development)
 
 ---
 
