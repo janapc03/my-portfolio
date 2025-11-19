@@ -6,7 +6,7 @@ Here's a summary of my past and current projects!
 ## 📚 Table of Contents
 - [SQL](#-sql)
 - [R](#-r)
-- [Software Development](#-software-development)
+- [Software Development](#%EF%B8%8F-software-development)
 
 ---
 
