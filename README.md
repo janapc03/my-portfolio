@@ -33,4 +33,4 @@ Here's a summary of my past and current projects!
 | Project Link | Tools | Project Description |
 | ------------ | ----- | ------------------- |
 | 🧋 **[Bubble Tea Blast](https://github.com/janapc03/boba-ordering-app)**  | Java, JSON | A bubble tea ordering simulation that allows users to select a drink with a flavor, size, and toppings and add it to their order, complete with save-state functionality. Includes personally designed pixel art to display the in-game boba shop, as well as a different image for each drink flavor. |
-| 🌟 **[Stardust Idea Tracker]([https://github.com/janapc03/boba-ordering-app](https://github.com/lavanyamenon15/IdeationStation))**  | JavaScript, React, HTML, CSS, JSON | An idea-tracking site designed to keep track of stream-of-consciousness thoughts. Created for the NwHacks cmd-f 2025 hackathon. |
+| 🌟 **[Stardust Idea Tracker](https://github.com/lavanyamenon15/IdeationStation)**  | JavaScript, React, HTML, CSS, JSON | An idea-tracking site designed to keep track of stream-of-consciousness thoughts. Created for the NwHacks cmd-f 2025 hackathon. |
