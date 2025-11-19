@@ -1,4 +1,4 @@
-# Welcome to my portfolio!
+# 🌱 Welcome to my portfolio!
 Here's a summary of my past and current projects!
 
 ---
