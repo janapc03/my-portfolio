@@ -12,9 +12,10 @@ Here's a summary of my past and current projects!
 
 ## 🧮 SQL
 
-| Project Link | Area | Project Description |
-| ------------ | ----- | ------------------- |
-| ☕ **[Coffee Shop Management Site](https://github.com/janapc03/coffee-shop-data-management)** | Database design, operational and workflow analysis, inventory & supply chain analytics | This application is for cafes and coffee shops, focusing specifically on inventory management and recipe directions for drinks. It showcases my proficiency in SQL query writing and problem-solving skills. |
+| Project Link | Area | Tools | Project Description |
+| ------------ | ----- | ---- | ------------------- |
+| ☕ **[Coffee Shop Management Site](https://github.com/janapc03/coffee-shop-data-management)** | Database design, operational and workflow analysis, inventory & supply chain analytics | SQL, HTML, CSS, PHP, MySQL | This application is for cafes and coffee shops, focusing specifically on inventory management and recipe directions for drinks. It showcases my proficiency in SQL query writing and problem-solving skills. |
+| 📖 **[Personal Reading Habits](https://github.com/janapc03/personal-reading-habits)** | Business analysis, dashboard building | SQL, Power BI | An analysis of my personal reading habits, including investigations on the correlation between book price and rating, amount spent on books, and highest reated genres/authors. |
 
 ---
 
